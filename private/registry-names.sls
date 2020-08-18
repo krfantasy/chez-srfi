@@ -63,4 +63,5 @@
       (152 strings)
       (156 predicate-combiners)
       (158 generators-and-accumulators)
-      (175 ascii))))
+      (175 ascii)
+      (180 json))))
